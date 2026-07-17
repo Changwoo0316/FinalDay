@@ -1,0 +1,6 @@
+{
+  "name": "Aero-Design Intelligence Suite (ADIS)",
+  "description": "CATIA 설계 데이터 검증, 표준 부품 생성 및 ERP 연동 BOM 자동화를 지원하는 한화에어로스페이스 표준 형상설계 지능형 자동화 툴세트",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
